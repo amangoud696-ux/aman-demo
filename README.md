@@ -1,4 +1,4 @@
 # aman-demo
 this is my first git repository.
 <br>
-Author - Aman goud
+Author - Aman (Apna college)
